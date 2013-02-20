@@ -14,7 +14,7 @@ import com.filenet.api.util.UserContext;
 import com.filenet.wcm.toolkit.server.operations.util.opsUtil;
 
 /**
- * @author Administrator
+ * @author Kemal Omar
  * 
  */
 class Utilities {
