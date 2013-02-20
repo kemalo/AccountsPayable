@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/Jace.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/javaapi.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/javax.activation_1.1.0.v200806101325.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/listener.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/log4jxml.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/p8cjares.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/pe.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/pe3pt.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/peResources.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/rsadbutils.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/rsahelpers.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/stax-api.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/xlxpScanner.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/xlxpScannerUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Custom Jars/ciops.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

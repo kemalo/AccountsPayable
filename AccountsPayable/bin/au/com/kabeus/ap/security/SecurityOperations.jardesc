@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Customers/Rabo/SecurityOperations.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/AccountsPayable/src/au/com/kabeus/ap/security/SecurityOperations.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/AccountsPayable/src/au/com/kabeus/ap/security/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/AccountsPayable/src/APOnline.properties"/>
+        <javaElement handleIdentifier="=AccountsPayable/src&lt;au.com.kabeus.ap.security{LoginUtilities.java"/>
+        <file path="/AccountsPayable/src/au/com/kabeus/ap/security/manifest"/>
+        <javaElement handleIdentifier="=AccountsPayable/src&lt;au.com.kabeus.ap.security{SecurityOperations.java"/>
+    </selectedElements>
+</jardesc>
